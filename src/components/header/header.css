@@ -1,0 +1,42 @@
+.bg-lightt {
+  --bs-bg-opacity: 1;
+  background-color: hsl(242deg 71% 59%) !important;
+}
+.dd > .nav-link1 {
+  color: blue !important;
+  padding-left: 0.2rem !important;
+}
+.ant-avatar {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 14px;
+  font-variant: tabular-nums;
+  line-height: 1.5715;
+  list-style: none;
+  font-feature-settings: "tnum", "tnum";
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  color: #0d6efd;
+  white-space: nowrap;
+  text-align: center;
+  vertical-align: middle;
+  background: #fff;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+  border-radius: 50% !important;
+}
+.headi {
+  font-size: large;
+  font-weight: 900;
+}
+.ff > .dropdown-toggle::after {
+  display: none !important;
+}
+.modal-dialog {
+  max-width: 700px !important;
+  margin: 1.75rem auto;
+}
